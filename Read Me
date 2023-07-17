@@ -1,0 +1,9 @@
+Hey!
+Not sure how you discovered my past project dump.
+This project is a webscraping project I did to determine which motorcycle brand and which model is the most successfull at winning championships WSBK.
+(Each team races a modified version of the motorcycle found on consumer market)
+
+The project uses BeautifulSoup to parse out seperate html strings, matplot lib to present the data in graphical format. 
+As of the time of writing this, the project is no longer working as I learnt that webscraping requires the code to be updated everytime the website updates(sorta)
+
+Eventually, I am looking a using WikiApi to gather and present the information instead of having to scrape off wikipedia everytime. 
